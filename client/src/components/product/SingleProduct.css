@@ -1,0 +1,18 @@
+.all {
+    display: flexbox;
+    font-family: sans-serif, Arial, "Helvetica Neue", Helvetica;
+    /* margin: 5px; */
+}
+ .all:hover  {
+  border: 1px solid black;
+}
+
+.name {
+  font-size: 20px;
+}
+
+.price {
+  font-size: 15px;
+  color: #323434;
+}
+
